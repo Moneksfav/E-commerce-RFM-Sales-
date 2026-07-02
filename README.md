@@ -3,9 +3,6 @@
 ## Project Overview
 This project features an interactive Excel dashboard designed to analyze and segment a customer base of 4,339 records using the **RFM (Recency, Frequency, Monetary)** framework. It transforms complex transactional data into high-level, executive-ready insights.
 
-## Live Dashboard Preview
-![Dashboard Preview](Screenshot 2026-07-02 172602.png)
-
 ## Key Insights Revealed
 * **The Pareto Effect:** While "Champions" make up a small fraction of the total customer headcount, they drive **59% of total business revenue**.
 * **Volume vs. Value:** "Regular Customers" represent the highest volume of accounts but a much lower share of overall wallet spend, highlighting key areas for targeted promotional shifting.
@@ -15,3 +12,6 @@ This project features an interactive Excel dashboard designed to analyze and seg
 * **Excel Pivot Tables & Pivot Charts:** Built the backend analytical architecture.
 * **Dynamic KPI Summary Cards:** Programmed unified, live cell blocks showing Total Customers, Total Revenue, and Average Order Value.
 * **Interactive Filter Panel:** Connected multi-slicer controls (`Customer Segment`, `Recency Score`, and `RFM Code`) for real-time deep dives.
+## Live Dashboard Preview
+![Dashboard Preview]<img width="893" height="467" alt="Screenshot 2026-07-02 172602" src="https://github.com/user-attachments/assets/2b705b0e-a13c-4b1f-bf1f-f1e553ace288" />
+
